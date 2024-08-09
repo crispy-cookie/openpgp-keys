@@ -10,7 +10,7 @@ Here I post my public openPGP keys for my private E-Mail: [buchmann.ch****il.com
 ```
 598C3B71A6440B42
 ```
-[https://keys.mailvelope.com/pks/lookup?op=get&search=598C3B71A6440B42](keys.mailvelope.com)
+[keys.mailvelope.com]()
 
 - fp: 
 ```
